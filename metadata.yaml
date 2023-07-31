@@ -1,5 +1,8 @@
 _repo: Betty-at-St-Benedick-s-b-A-school-story-for-girls_71201
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71201-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Talbot, Ethel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '51062'
     url: http://www.gutenberg.org/2009/agents/51062
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71201#Betty-at-St-Benedick-s-b-A-school-story-for-girls
 gutenberg_issued: '2023-07-16'
 identifiers:
   gutenberg: '71201'
